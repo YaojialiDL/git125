@@ -1,0 +1,3 @@
+2023-07-26 10:14:53,543 main ERROR [com.yc.git.test3.user.StudentBmiFilter] 身高数据异常...Student(name=ww, height=0.9, weight=20.0)
+2023-07-26 11:33:30,727 main ERROR [com.yc.git.test3.user.StudentBmiFilter] 身高数据异常...Student(name=ww, height=0.9, weight=20.0)
+2023-07-26 14:13:50,898 main ERROR [com.yc.git.test3.user.StudentBmiFilter] 身高数据异常...Student(name=ww, height=0.9, weight=20.0)
