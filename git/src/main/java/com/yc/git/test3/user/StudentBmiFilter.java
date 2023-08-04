@@ -1,7 +1,6 @@
 package com.yc.git.test3.user;
 
 import com.yc.git.test3.system.ContainerFilter;
-import org.apache.log4j.Logger;
 import org.springframework.stereotype.Component;
 
 /**

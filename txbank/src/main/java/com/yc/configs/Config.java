@@ -1,4 +1,4 @@
-package com.yc;
+package com.yc.configs;
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;

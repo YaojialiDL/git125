@@ -2,7 +2,6 @@ package com.yc.git.test3.user;
 
 import com.yc.git.test3.system.Measure;
 import org.springframework.stereotype.Component;
-import org.springframework.stereotype.Controller;
 
 /**
  * 学生的Bmi指数测量接口
